@@ -22,3 +22,9 @@ class Solution:
         for ri in rowIndexes:
             # set entire row to 0
             matrix[ri][:] = [0 for a in matrix[ri][:]]
+
+
+# Success
+# Details
+# Runtime: 132 ms, faster than 93.51% of Python3 online submissions for Set Matrix Zeroes.
+# Memory Usage: 14.7 MB, less than 89.35% of Python3 online submissions for Set Matrix Zeroes.
