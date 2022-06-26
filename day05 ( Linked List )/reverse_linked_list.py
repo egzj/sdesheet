@@ -22,6 +22,9 @@ class Solution:
         return oldNode
 
 
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
 # Success
 # Details
 # Runtime: 51 ms, faster than 57.61% of Python3 online submissions for Reverse Linked List.
